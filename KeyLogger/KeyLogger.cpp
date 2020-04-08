@@ -178,6 +178,7 @@ void logger_loop()
             std::cout << std::endl;
             counter = 0;
         }
+        //lets not hog our cpu
         Sleep(10);
     }
 }
