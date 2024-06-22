@@ -1,3 +1,4 @@
+see an updated version in c# here: https://github.com/PeripheralVisionPD2/KeyLockStates
 # PoC-Keylogger
 a super basic example of a keylogger in c++
 
